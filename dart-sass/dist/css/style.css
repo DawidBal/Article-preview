@@ -1,0 +1,10 @@
+:root {
+  --gradient-purple: #6a11cb;
+  --gradient-blue: #2575fc;
+}
+
+body {
+  background-image: linear-gradient(to right, var(--gradient-purple) 0%, var(--gradient-blue) 100%);
+}
+
+/*# sourceMappingURL=style.css.map */
